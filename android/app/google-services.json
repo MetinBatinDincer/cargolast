@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "288293599753",
+    "project_id": "kargolast-125f6",
+    "storage_bucket": "kargolast-125f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288293599753:android:b74587d456351d817256d8",
+        "android_client_info": {
+          "package_name": "com.example.kargo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKoFZyDfeidFcPzRoGNFGURNGTJ2b9BE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
